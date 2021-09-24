@@ -32,6 +32,7 @@ nav {
     background-color: var(--light-color);
     position: sticky;
     top: 0;
+    z-index: 10;
 }
 .logo {
     flex: 0.5;
@@ -185,6 +186,9 @@ header {
 #gitty {
     background-image: url("../img/gitty.png");
 }
+#ecommerce {
+    background-image: url("../img/ecommerce.png");
+}
 #country {
     background-image: url("../img/country.png");
 }
@@ -193,6 +197,9 @@ header {
 }
 #zinc {
     background-image: url("../img/zinc.png");
+}
+#revise {
+    background-image: url("../img/revise.png");
 }
 .portfolio__text {
     padding: 15px;
