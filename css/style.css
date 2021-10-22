@@ -211,6 +211,9 @@ header {
 #revise {
   background-image: url("../img/revise.png");
 }
+#country_app {
+  background-image: url("../img/country.png");
+}
 .portfolio__text {
   padding: 15px;
   width: 100%;
